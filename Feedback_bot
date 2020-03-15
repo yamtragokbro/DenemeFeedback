@@ -15,7 +15,7 @@ def yardim_mesaji(m):
          bot.send_message(m.chat.id, "Yardım mesajı")
          
          ban_listesi = [] #FeedBack ile troll yemeyelim :)
-bizim_IDmiz = 1234568790 #Bizim kullanıcı idmiz
+bizim_IDmiz = 669603423 #Bizim kullanıcı idmiz
 
 @bot.message_handler(['feedback'])
 def geri_bildirim(m):
